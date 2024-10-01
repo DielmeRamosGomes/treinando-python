@@ -8,7 +8,7 @@ def eh_primo(numero):
         i += 2
     return print(f"O número {numero} é primo!")
 
-eh_primo(1000000)
+eh_primo(17)
 
 
 
